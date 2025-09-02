@@ -1,7 +1,7 @@
 # Comp_Arch-Resources
 
-The Following Resources Provide the Course Materials, Notes, Resources and Tools for the Computer Architecture. The tools include Timing and Tracing Simulators. 
-Resources include x86 simulators ans assingnments on them based
+The Following Resources Provide the Course Materials, Notes, Resources and Tools for the Computer Architecture. 
+The tools and resources include Timing and Tracing Simulators and some assignments based on them 
 ## Videos and Courses
 
 * [2025: Fundamentals of Computer Architecture (Undergraduate) - O. Mutlu](https://safari.ethz.ch/foca/spring2025/doku.php?id=start)
