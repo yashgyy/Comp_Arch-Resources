@@ -1,6 +1,8 @@
 # Comp_Arch-Resources
 
-The Following Resources Provide the Course Materials, Notes, Resources and Tools for the Computer Architecture . \newline 
+The Following Resources Provide the Course Materials, Notes, Resources and Tools for the Computer Architecture.
+
+
 The tools and resources include Timing and Tracing Simulators and some assignments based on them 
 ## Videos and Courses
 
