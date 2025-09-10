@@ -4,6 +4,11 @@ The Following Resources Provide the Course Materials, Notes, Resources and Tools
 
 
 The tools and resources include Timing and Tracing Simulators and some assignments based on them 
+
+## Books 
+* [Computer Architecture - A Quantative Approach (David Patterson)](https://dn790008.ca.archive.org/0/items/computerarchitectureaquantitativeapproach6thedition/Computer%20Architecture%3A%20A%20Quantitative%20Approach%206th%20Edition.pdf)
+* [Basic Computer Architecture - Smruti Sarangi](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
+
 ## Videos and Courses
 
 * [2025: Fundamentals of Computer Architecture (Undergraduate) - O. Mutlu](https://safari.ethz.ch/foca/spring2025/doku.php?id=start)
