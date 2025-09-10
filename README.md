@@ -24,7 +24,7 @@ The tools and resources include Timing and Tracing Simulators and some assignmen
 
 ## Videos 
 * [Low Level Coding](https://www.youtube.com/@LowLevelTV) 
-Rather than beign purely informative, he focuses on the vulnerability that might slide in the various low level programming :D. He also writes more about the exploits on the various low level devices
+Rather than beign purely informative, he focuses on the vulnerability that might slide in the various low level programming :D.
 * [Jonathan Blow](https://www.youtube.com/@jblow888)
 A gifted Programmer, computer scientist and a game developer. His rants on developing a new programming language is quite informative 
 * [Dave Garage](https://www.youtube.com/watch?v=Bwh6cVJHKSo)
