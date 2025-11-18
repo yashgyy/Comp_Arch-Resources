@@ -19,6 +19,7 @@ The tools and resources include Timing and Tracing Simulators and some assignmen
 ## Notes
 * [Digital Design and Computer Architecture - O. Mutlu](https://cs.shivi.io/01-Semesters-(BSc)/Semester-2/Digital-Design-and-Computer-Architecture/)
 * [Georgia Tech HPC](https://one2bla.me/cs6290/lesson1/introduction.html)
+* [Algorithmica](https://en.algorithmica.org/hpc/)
 
 ## Assignments
 * [Simulator Based Assignments - Champsim, Zsim](https://drive.google.com/drive/folders/1dJCRerxJvIcB59SllxfThLvgGVKlkktJ?usp=drive_link)
